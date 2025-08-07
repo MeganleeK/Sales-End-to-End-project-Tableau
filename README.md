@@ -39,7 +39,8 @@ To present an overview of the sales metrics and trends in order to analyze year-
 
 ---
 ## 🔗 Tableau Public Link
-[View Dashboard on Tableau Public](#)  
+[View My Tableau Profile](https://public.tableau.com/app/profile/megan.lee.keaziah.williamson)
+
 
 
 
